@@ -1,3 +1,5 @@
+<img align=right src="https://github-readme-stats.vercel.app/api?username=yangxuan74&show_icons=true&include_all_commits=true&theme=tokyonight" >
+
 ### Hi there 👋
 
 <!--
